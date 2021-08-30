@@ -11,10 +11,9 @@ echo "============ [END] PUSH CODE TO MYBLOG REPO ============="
 
 echo "============ [START] CREATE NEW PAGES ============="
 
-hexo clean
+hexo clean & hexo g
 timeout /t 5
 
-hexo g
 hexo d
 
 echo "============ [END] CREATE NEW PAGES ============="
