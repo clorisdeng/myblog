@@ -13,6 +13,6 @@ echo "============ [START] CREATE NEW PAGES ============="
 
 hexo clean & hexo g & hexo d
 
-call echo "============ [END] CREATE NEW PAGES ============="
+& echo "============ [END] CREATE NEW PAGES ============="
 
-call pause
+& pause
