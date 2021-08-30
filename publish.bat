@@ -15,4 +15,4 @@ hexo clean & hexo g & hexo d
 
 call echo "============ [END] CREATE NEW PAGES ============="
 
-pause
+call pause
