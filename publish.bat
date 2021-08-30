@@ -11,8 +11,5 @@ echo "============ [END] PUSH CODE TO MYBLOG REPO ============="
 
 echo "============ [START] CREATE NEW PAGES ============="
 
-hexo clean & hexo g & hexo d
-
-& echo "============ [END] CREATE NEW PAGES ============="
-
-& pause
+hexo clean & hexo g & hexo d & echo "============ [END] CREATE NEW PAGES =============" 
+pause
