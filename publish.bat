@@ -10,5 +10,4 @@ git push
 echo "============ [END] PUSH CODE TO MYBLOG REPO ============="
 
 echo "============ CREATE NEW PAGES ============="
-
-hexo clean & hexo g & hexo d || pause
+hexo clean & hexo g & hexo d
