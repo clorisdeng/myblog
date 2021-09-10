@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Cloris 的轨迹
-subtitle: ''
+title: QTimom
+subtitle: 'Q Ti mommy'
 description: ''
 keywords: 
-author: Cloris Deng
+author: QTimom
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://qtimom.com/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
