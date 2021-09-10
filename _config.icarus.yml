@@ -3,11 +3,11 @@ version: 4.0.0
 # Icarus theme variant, can be "default" or "cyberpunk"
 variant: default
 # Path or URL to the website's logo
-logo: /img/logo.png
+logo: /gallery/logo.png
 # Page metadata configurations
 head:
     # URL or path to the website's icon
-    favicon: /img/favicon.svg
+    favicon: /gallery/websitelogo.png
     # Web application manifests configuration
     # https://developer.mozilla.org/en-US/docs/Web/Manifest
     manifest:
@@ -112,7 +112,7 @@ navbar:
     #     About: /about
     menu:
         主页: /
-        归档: /archives
+        时间线: /archives
         分类: /categories
         标签: /tags
         关于: /about
@@ -231,15 +231,15 @@ widgets:
         position: left
         type: profile
         # Author name
-        author: QTimom
+        author: 哭啼妈妈
         # Author title
         author_title: QTimom
         # Author's current location
         location: Espoo, Finland
         # URL or path to the avatar image
-        avatar: 
+        avatar: /gallery/websitelogo.png
         # Whether show the rounded avatar image
-        avatar_rounded: false
+        avatar_rounded: true
         # Email address for the Gravatar
         gravatar: 
         # URL or path for the follow button
