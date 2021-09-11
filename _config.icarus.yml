@@ -237,7 +237,7 @@ widgets:
         # Author's current location
         location: Espoo, Finland
         # URL or path to the avatar image
-        avatar: /gallery/websitelogo.png
+        avatar: /gallery/Profile1.jpeg
         # Whether show the rounded avatar image
         avatar_rounded: true
         # Email address for the Gravatar
