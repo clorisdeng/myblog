@@ -4,6 +4,8 @@ date: 2021-09-15 09:15:08
 tags: 观点态度
 top: 96
 categories: 生活
+language: zh-CN
+toc: true
 cover: /gallery/funtoknow/babybox.jpeg
 thumbnail: /gallery/funtoknow/babybox.jpeg
 ---
