@@ -247,7 +247,7 @@ widgets:
         # Links to be shown on the bottom of the profile widget
         social_links:
             Github:
-                icon: fab fa-github
+                icon: fab fa-github 
                 url: 'https://github.com/ppoffice'
             Facebook:
                 icon: fab fa-facebook
