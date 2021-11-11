@@ -116,6 +116,8 @@ navbar:
         分类: /categories
         标签: /tags
         关于我: /about
+        版权声明: /copyright
+
     # Links to be shown on the right of the navigation bar
     # links:
     #     Download on GitHub:
@@ -282,14 +284,14 @@ widgets:
     #     # Feedburner ID
     #     feedburner_id: ''
     # Google AdSense unit configurations
-    -
-        # Where should the widget be placed, left sidebar or right sidebar
-        position: left
-        type: adsense
-        # AdSense client ID
-        client_id: 'ca-pub-3995579850867061'
-        # AdSense AD unit ID
-        slot_id: '1465052610'
+    # -
+    #     # Where should the widget be placed, left sidebar or right sidebar
+    #     position: left
+    #     type: adsense
+    #     # AdSense client ID
+    #     client_id: 'ca-pub-3995579850867061'
+    #     # AdSense AD unit ID
+    #     slot_id: '1465052610'
     # Recommendation links widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
